@@ -1,0 +1,19 @@
+body
+{
+    background-size: cover;
+}
+#tv_screen, #bulb_screen, #fridge_screen, #AC_screen, #door_screen
+{
+    background-color: yellow;
+    color: black;
+    font-size: 10px;
+    font-family: fantasy;
+    margin: 10px black;
+    padding: 10px;
+}
+#heading
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: red;
+}
